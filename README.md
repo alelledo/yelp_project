@@ -2,6 +2,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/559/non_2x/yelp-logo-yelp-icon-transparent-free-png.png" width = 200 alt="Logo">
 </p>
 <p align="center"><em>by Vecteezy</em></p>
+
 # Customer Insights on Restaurant Choice Analysis
 
 ## Introduction
